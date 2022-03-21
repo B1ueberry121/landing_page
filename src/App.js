@@ -7,7 +7,7 @@ import PlaceToVisit from './components/PlaceToVisit';
 const useStyles = makeStyles((theme) => ({
   root: {
     minHeight: '100vh',
-    backgroundImage: `url(${process.env.PUBLIC_URL + '/assets/bg.jpg'})`,
+    backgroundImage: `url(${process.env.PUBLIC_URL + '/assets/background.png'})`,
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
   },

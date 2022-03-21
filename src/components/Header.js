@@ -24,21 +24,21 @@ const useStyles = makeStyles((theme) => ({
     flexGrow: '1',
   },
   icon: {
-    color: '#fff',
+    color: '#000000',
     fontSize: '2rem',
   },
   colorText: {
-    color: '#5AFF3D',
+    color: '#000000',
   },
   container: {
     textAlign: 'center',
   },
   title: {
-    color: '#fff',
+    color: '#00000',
     fontSize: '4.5rem',
   },
   goDown: {
-    color: '#5AFF3D',
+    color: '#000000',
     fontSize: '4rem',
   },
 }));
@@ -53,7 +53,7 @@ export default function Header() {
       <AppBar className={classes.appbar} elevation={0}>
         <Toolbar className={classes.appbarWrapper}>
           <h1 className={classes.appbarTitle}>
-            My<span className={classes.colorText}>Island.</span>
+            <span className={classes.colorText}>Gmaing Plaza</span>
           </h1>
           <IconButton>
             <SortIcon className={classes.icon} />
@@ -69,7 +69,7 @@ export default function Header() {
         <div className={classes.container}>
           <h1 className={classes.title}>
             Welcome to <br />
-            My<span className={classes.colorText}>Island.</span>
+            <span className={classes.colorText}>Gaming Plaza</span>
           </h1>
           <Scroll to="place-to-visit" smooth={true}>
             <IconButton>
