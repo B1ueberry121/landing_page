@@ -3,7 +3,7 @@ const places = [
     title: 'Coming Soon',
     description:
       "Future game coming soon, corrently in the works of making more content.",
-    imageUrl: process.env.PUBLIC_URL + '/assets/coming_soon.jpeg',
+    imageUrl: process.env.PUBLIC_URL + '/assets/coming_soon.png',
     time: 1500,
   },
   {
