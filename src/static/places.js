@@ -1,9 +1,9 @@
 const places = [
   {
-    title: 'Green',
+    title: 'Coming Soon',
     description:
-      "The Maldives are home to some of the world's most ravishing islands, but it's the sea, which truly makes these islands shine. Luminous aquamarine waters with a crystal clarity lap upon these dazzling white shores, which barely peek above the Indian Ocean.",
-    imageUrl: process.env.PUBLIC_URL + '/assets/island1.jpg',
+      "Future game coming soon, corrently in the works of making more content.",
+    imageUrl: process.env.PUBLIC_URL + '/assets/coming_soon.jpeg',
     time: 1500,
   },
   {
