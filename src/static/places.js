@@ -7,10 +7,10 @@ const places = [
     time: 1500,
   },
   {
-    title: 'Bora Bora',
+    title: 'Azure',
     description:
-      'Shaped like a giant sombrero, this lush volcanic island stars in countless South Pacific fantasies. The focal point and best asset of this tropical beauty is its ravishing lagoon in technicolor turquoise. Fish, turtles, sharks, and rays swim in the clear waters.',
-    imageUrl: process.env.PUBLIC_URL + '/assets/island2.jpg',
+      'This is 2D platformer game who you control Azure and complete chanllenging different obsticles and puzzules',
+    imageUrl: process.env.PUBLIC_URL + '/assets/Game.png',
     time: 1500,
   },
 ];
