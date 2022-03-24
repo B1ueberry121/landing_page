@@ -28,7 +28,7 @@ const useStyles = makeStyles({
     color: '#ddd',
   },
 });
-
+// Function to handle the images
 export default function ImageCard({ place, checked }) {
   const classes = useStyles();
 
