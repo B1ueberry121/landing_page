@@ -6,6 +6,7 @@ const places = [
     imageUrl: process.env.PUBLIC_URL + '/assets/coming_soon.png',
     time: 1500,
   },
+  // These are ther image cards with there following description
   {
     title: 'Azure',
     description:
