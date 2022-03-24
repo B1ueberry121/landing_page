@@ -1,3 +1,5 @@
+# Gaming Plaza
+
 This landing page was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -72,3 +74,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 [Daily Web Coding](https://www.youtube.com/watch?v=rK0Lz8x7npA)
 
 Christian Laboy Oyola
+
+### Official Site
+[Gaming Plaza](https://friendly-youtiao-3e33bb.netlify.app)
